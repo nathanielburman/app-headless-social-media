@@ -12,3 +12,5 @@ You can work on different stories and projects using headless social media accou
 
 3. spin up 10000 servers and distribute your social media updates and description and body of data with pictures etc.
 ~~~
+
+<img src="https://github.com/nathanielburman/app-headless-social-media/blob/main/1ksitc1.jpg" width="100%"></img>

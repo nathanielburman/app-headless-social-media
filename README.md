@@ -8,4 +8,4 @@ Headless social media accounts for project compartmentalization
 
 2. spin up 100 heads and fire a cannon into anothers social media profile.
 
-3. spin up 10000 servers and distribute your csocial media updates and description and body of data with pictures etc.
+3. spin up 10000 servers and distribute your social media updates and description and body of data with pictures etc.
